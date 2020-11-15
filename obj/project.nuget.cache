@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9KTszxrlUfiDdUZfOSwixlpcqQR1WkREVLeSdH4vP16xu1AuWOOX+oiHAp19+80RBfLQwDuoZ2zhWwcMZd8EOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projekti\\WaySevenTasks\\Task2\\StockAnalyzing\\StockAnalyzing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\korisnik\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
+    "C:\\Users\\korisnik\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\korisnik\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

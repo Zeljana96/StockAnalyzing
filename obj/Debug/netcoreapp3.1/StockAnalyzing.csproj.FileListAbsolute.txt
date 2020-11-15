@@ -1,0 +1,16 @@
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\bin\Debug\netcoreapp3.1\StockAnalyzing.exe
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\bin\Debug\netcoreapp3.1\StockAnalyzing.deps.json
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\bin\Debug\netcoreapp3.1\StockAnalyzing.runtimeconfig.json
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\bin\Debug\netcoreapp3.1\StockAnalyzing.runtimeconfig.dev.json
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\bin\Debug\netcoreapp3.1\StockAnalyzing.dll
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\bin\Debug\netcoreapp3.1\StockAnalyzing.pdb
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\obj\Debug\netcoreapp3.1\StockAnalyzing.csprojAssemblyReference.cache
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\obj\Debug\netcoreapp3.1\StockAnalyzing.csproj.CoreCompileInputs.cache
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\obj\Debug\netcoreapp3.1\StockAnalyzing.AssemblyInfoInputs.cache
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\obj\Debug\netcoreapp3.1\StockAnalyzing.AssemblyInfo.cs
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\obj\Debug\netcoreapp3.1\StockAnalyzing.csproj.CopyComplete
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\obj\Debug\netcoreapp3.1\StockAnalyzing.dll
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\obj\Debug\netcoreapp3.1\StockAnalyzing.pdb
+C:\Projekti\WaySevenTasks\Task2\StockAnalyzing\obj\Debug\netcoreapp3.1\StockAnalyzing.genruntimeconfig.cache
